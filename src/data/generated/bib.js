@@ -1,0 +1,120 @@
+﻿const generatedBibEntries = {
+    "10.1145/2185520.2185531": {
+        "abstract": "We describe a complete system for animating realistic clothing on synthetic bodies of any shape and pose without manual intervention. The key component of the method is a model of clothing called DRAPE (DRessing Any PErson) that is learned from a physics-based simulation of clothing on bodies of different shapes and poses. The DRAPE model has the desirable property of \"factoring\" clothing deformations due to body shape from those due to pose variation. This factorization provides an approximation to the physical clothing deformation and greatly simplifies clothing synthesis. Given a parameterized model of the human body with known shape and pose parameters, we describe an algorithm that dresses the body with a garment that is customized to fit and possesses realistic wrinkles. DRAPE can be used to dress static bodies or animated sequences with a learned model of the cloth dynamics. Since the method is fully automated, it is appropriate for dressing large numbers of virtual characters of varying shape. The method is significantly more efficient than physical simulation.",
+        "address": "New York, NY, USA",
+        "articleno": "35",
+        "author": "Guan, Peng and Reiss, Loretta and Hirshberg, David A. and Weiss, Alexander and Black, Michael J.",
+        "doi": "10.1145/2185520.2185531",
+        "issn": "0730-0301",
+        "issue_date": "July 2012",
+        "journal": "ACM Trans. Graph.",
+        "keywords": "virtual try-on, wrinkles, deformable model, dressing, clothing animation, fit, learning",
+        "month": "jul",
+        "number": "4",
+        "numpages": "10",
+        "pages": "1--10",
+        "publisher": "Association for Computing Machinery",
+        "title": "{DRAPE}: {DRessing} Any {PErson}",
+        "type": "article",
+        "url": "https://doi.org/10.1145/2185520.2185531",
+        "volume": "31",
+        "year": "2012"
+    },
+    "9008110": {
+        "author": "Yu, Ruiyun and Wang, Xiaoqi and Xie, Xiaohui",
+        "booktitle": "2019 IEEE/CVF International Conference on Computer Vision (ICCV)",
+        "doi": "10.1109/ICCV.2019.01061",
+        "number": "",
+        "pages": "10510-10519",
+        "publisher": "IEEE",
+        "title": "{VTNFP}: An Image-Based Virtual Try-On Network With Body and Clothing Feature Preservation",
+        "type": "inproceedings",
+        "volume": "",
+        "year": "2019"
+    },
+    "9010778": {
+        "author": "Han, Xintong and Huang, Weilin and Hu, Xiaojun and Scott, Matthew",
+        "booktitle": "2019 IEEE/CVF International Conference on Computer Vision (ICCV)",
+        "doi": "10.1109/ICCV.2019.01057",
+        "number": "",
+        "pages": "10470-10479",
+        "publisher": "IEEE",
+        "title": "{ClothFlow}: A Flow-Based Model for Clothed Person Generation",
+        "type": "inproceedings",
+        "volume": "",
+        "year": "2019"
+    },
+    "9578702": {
+        "author": "Choi, Seunghwan and Park, Sunghyun and Lee, Minsoo and Choo, Jaegul",
+        "booktitle": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+        "doi": "10.1109/CVPR46437.2021.01391",
+        "number": "",
+        "pages": "14126-14135",
+        "publisher": "IEEE",
+        "title": "{VITON}-{HD}: High-Resolution Virtual Try-On via Misalignment-Aware Normalization",
+        "type": "inproceedings",
+        "volume": "",
+        "year": "2021"
+    },
+    "DBLP:journals/corr/abs-1711-08447": {
+        "author": "Han, Xintong and Wu, Zuxuan and Wu, Zhe and Yu, Ruichi and Davis, Larry S",
+        "booktitle": "Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition",
+        "doi": "10.1109/cvpr.2018.00787",
+        "pages": "7543--7552",
+        "publisher": "IEEE",
+        "title": "Viton: An image-based virtual try-on network",
+        "type": "inproceedings",
+        "year": "2018"
+    },
+    "DBLP:journals/corr/abs-1807-07688": {
+        "author": "Wang, Bochao and Zheng, Huabin and Liang, Xiaodan and Chen, Yimin and Lin, Liang and Yang, Meng",
+        "booktitle": "Proceedings of the European Conference on Computer Vision (ECCV)",
+        "doi": "10.1007/978-3-030-01261-8_36",
+        "pages": "589--604",
+        "publisher": "Springer International Publishing",
+        "title": "Toward characteristic-preserving image-based virtual try-on network",
+        "type": "inproceedings",
+        "year": "2018"
+    },
+    "jetchev2017conditional": {
+        "author": "Jetchev, Nikolay and Bergmann, Urs",
+        "booktitle": "Proceedings of the IEEE International Conference on Computer Vision Workshops",
+        "doi": "10.1109/iccvw.2017.269",
+        "pages": "2287--2292",
+        "publisher": "IEEE",
+        "title": "The conditional analogy gan: Swapping fashion articles on people images",
+        "type": "inproceedings",
+        "year": "2017"
+    },
+    "patel2020tailornet": {
+        "author": "Patel, Chaitanya and Liao, Zhouyingcheng and Pons-Moll, Gerard",
+        "booktitle": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "doi": "10.1109/cvpr42600.2020.00739",
+        "pages": "7365--7375",
+        "publisher": "IEEE",
+        "title": "Tailornet: Predicting clothing in 3d as a function of human pose, shape and garment style",
+        "type": "inproceedings",
+        "year": "2020"
+    },
+    "sekine2021virtual": {
+        "author": "Sekine, Masahiro and Sugita, Kaoru and Perbet, Frank and Stenger, Bj{\\\"o}rn and Nishiyama, Masashi",
+        "booktitle": "Int. Conf. on 3D Body Scanning Technologies",
+        "doi": "10.15221/14.406",
+        "organization": "Citeseer",
+        "pages": "406--413",
+        "publisher": "Hometrica Consulting - Dr. Nicola D'Apuzzo",
+        "title": "Virtual fitting by single-shot body shape estimation",
+        "type": "inproceedings",
+        "year": "2014"
+    },
+    "yang2020photorealistic": {
+        "author": "Yang, Han and Zhang, Ruimao and Guo, Xiaobao and Liu, Wei and Zuo, Wangmeng and Luo, Ping",
+        "booktitle": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+        "doi": "10.1109/cvpr42600.2020.00787",
+        "pages": "7850--7859",
+        "publisher": "IEEE",
+        "title": "Towards photo-realistic virtual try-on by adaptively generating-preserving image content",
+        "type": "inproceedings",
+        "year": "2020"
+    }
+};
